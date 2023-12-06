@@ -5,4 +5,5 @@ to have a centralized list somewhere.
 
 * [Blogs](./blogs.md)
 * [Courses](./courses.md)
+* [Datasets](./datasets.md)
 
